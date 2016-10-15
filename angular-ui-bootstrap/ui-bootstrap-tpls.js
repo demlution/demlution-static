@@ -1150,7 +1150,7 @@ angular.module('ui.bootstrap.carousel')
   };
 }])
 
-.directive('slide', ['$log', '$carouselSuppressWarning', function($log, $carouselSuppressWarning) {
+.directive('slidexxx', ['$log', '$carouselSuppressWarning', function($log, $carouselSuppressWarning) {
   return {
     require: '^carousel',
     transclude: true,
