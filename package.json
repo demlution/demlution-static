@@ -1,6 +1,6 @@
 {
   "name": "demlution-static",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "demlution public static",
   "main": "index.js",
   "scripts": {
