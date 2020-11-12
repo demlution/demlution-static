@@ -6,5 +6,5 @@ demlution public legacy static
 ## install
 
 ```
-yarn add demlution/demlution-static#1.0.4
+yarn add demlution/demlution-static#1.0.5
 ```
