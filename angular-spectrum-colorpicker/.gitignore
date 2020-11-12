@@ -8,4 +8,4 @@ grunt
 .tmp
 .project
 .settings
-dist
+# dist
