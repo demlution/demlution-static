@@ -7,4 +7,3 @@ demlution public legacy static
 ```
 yarn add demlution/demlution-static#1.0.1
 ```
-
